@@ -1,5 +1,5 @@
 {
-  "name": "dev-test",
+  "name": "vue-pug-stylus-todo-list",
   "version": "0.1.0",
   "private": true,
   "scripts": {
